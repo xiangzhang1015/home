@@ -244,7 +244,7 @@ h5 {
 
 /* line 131, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_common.scss */
 img {
-  max-width: 100%;
+  max-width: 100%;height: auto;width: auto\9;
 }
 
 /* line 134, ../../01 cl html template/03_jun 2019/182_medico_html/sass/_common.scss */
